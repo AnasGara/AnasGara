@@ -21,7 +21,7 @@
  <a href="https://github.com/AnasGara/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> 
 
 <!-- menhouniii lil louuuuuttttt>
-
+<!-- 
 
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
@@ -106,4 +106,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
  -->
