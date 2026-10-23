@@ -57,10 +57,6 @@ Hi! I'm **Anas Gara**, a passionate **Software Engineer** and **Cloud Enthusiast
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AnasGara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Anas's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasGara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AnasGara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
