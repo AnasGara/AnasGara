@@ -55,7 +55,12 @@ Hi! I'm **Anas Gara**, a passionate **Software Engineer** and **Cloud Enthusiast
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Numbers 
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasGara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 
 <div align="center">
